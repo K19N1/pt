@@ -1,0 +1,61 @@
+/*navbar*/
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+/*heading*/
+.heading{
+    font-size: 2.5rem;
+}
+
+#picc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#picc img{
+    width: 575px;
+    height: 400px;
+    flex-direction: column;
+    align-items: center;
+}
+#intro h2{
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+#intro h3{
+    text-align: center;
+    padding: 10px;
+}
+#intro h4{
+    text-align: center;
+    padding: 10px;
+}
+/* contact*/
+.input{
+    width: 60%;
+
+}
+#msg{
+    width: 55%;
+}
+#send{
+    width: 20%;
+
+}
+
+
+/*navbar*/
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+/*heading*/
+.heading{
+    font-size: 2.5rem;
+}

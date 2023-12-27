@@ -1,0 +1,35 @@
+/* home */
+#home{
+    height:820px;
+    
+
+}
+.heading{
+   font-size: 1.7rem;
+
+}
+/* about */
+#pic img{
+    width: 200px;
+    height: 175px;
+
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+/* port */
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+  }
+/* contact */
+#input{
+    width: 80px;
+}
+#msg{
+    width:70%
+}
+#send{
+    width: 20%;
+}
